@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/COMMUNICATION/M703/SCHEMATICS/1977 - M703 - LB 703-06-001 - M703 - I-C PRE & OUTPUT AMPLIFIER - LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/b6c1d418ffba0c2e.svg",
+ "sheet": {
+  "number": "703-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [2000, 657],
+  "mm": [431.8, 141.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.7, 2.8, 431.6, 141.6],
+ "outlines": {
+  "line": {"rings": 3619, "straight": {"n": 19578, "mm": 18777.4}, "curved": {"n": 4558, "mm": 4378.7}},
+  "text": {"rings": 217, "straight": {"n": 1147, "mm": 860.8}, "curved": {"n": 369, "mm": 377.9}}
+ },
+ "circles": [
+  {"c": [382.2, 68.7], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [240.8, 112.1], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [83.7, 99.1], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [211.1, 104.5], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [104.1, 92.3], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [157.7, 39.1], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [119.9, 30.7], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [79.8, 53.3], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [146.2, 109.1], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [78.7, 105.3], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [137.1, 60.3], "r": 0.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [156.4, 94.2], "r": 0.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [51.2, 113.1, 54.8, 118.1], "w": 3.7, "h": 5.0, "from": "ring"},
+  {"mm": [55.1, 113.1, 59.2, 118.1], "w": 4.1, "h": 5.0, "from": "ring"},
+  {"mm": [66.7, 56.7, 73.2, 64.3], "w": 6.5, "h": 7.6, "from": "ring"},
+  {"mm": [73.4, 57.0, 79.7, 59.4], "w": 6.3, "h": 2.4, "from": "ring"},
+  {"mm": [314.8, 23.7, 321.5, 28.3], "w": 6.7, "h": 4.5, "from": "ring"},
+  {"mm": [114.6, 23.3, 121.6, 25.7], "w": 6.9, "h": 2.4, "from": "ring"},
+  {"mm": [314.8, 14.4, 353.2, 23.6], "w": 38.4, "h": 9.2, "from": "ring"},
+  {"mm": [353.6, 19.0, 359.9, 23.6], "w": 6.3, "h": 4.6, "from": "ring"},
+  {"mm": [360.6, 19.2, 379.1, 23.6], "w": 18.6, "h": 4.4, "from": "ring"},
+  {"mm": [353.6, 14.5, 359.9, 18.8], "w": 6.3, "h": 4.3, "from": "ring"},
+  {"mm": [360.6, 14.7, 379.1, 18.8], "w": 18.6, "h": 4.1, "from": "ring"},
+  {"mm": [314.8, 5.4, 353.2, 14.2], "w": 38.4, "h": 8.9, "from": "ring"},
+  {"mm": [360.6, 9.9, 379.1, 14.2], "w": 18.6, "h": 4.3, "from": "ring"},
+  {"mm": [419.9, 5.6, 425.3, 9.7], "w": 5.4, "h": 4.1, "from": "ring"},
+  {"mm": [360.6, 5.4, 379.1, 9.5], "w": 18.6, "h": 4.1, "from": "ring"},
+  {"mm": [380.0, 5.4, 385.8, 9.5], "w": 5.8, "h": 4.1, "from": "ring"},
+  {"mm": [383.0, 5.8, 385.4, 8.9], "w": 2.4, "h": 3.0, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [
+  {"c": [198.9, 108.3], "r": 0.7, "lines": 0},
+  {"c": [285.9, 108.2], "r": 0.6, "lines": 0},
+  {"c": [97.4, 105.5], "r": 0.7, "lines": 0},
+  {"c": [158.1, 105.1], "r": 0.6, "lines": 0},
+  {"c": [84.4, 85.1], "r": 0.7, "lines": 0},
+  {"c": [135.2, 82.5], "r": 0.8, "lines": 0},
+  {"c": [390.9, 81.6], "r": 0.8, "lines": 0},
+  {"c": [88.5, 52.1], "r": 0.7, "lines": 0},
+  {"c": [245.5, 47.4], "r": 0.8, "lines": 0},
+  {"c": [249.2, 47.2], "r": 0.6, "lines": 0},
+  {"c": [147.0, 40.6], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 703-06-001, size B (assumed) 432 × 142 mm, 2000 × 657 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 10–432 mm across, 3–142 mm up",
+  "- **Outlines:** line 3,619 rings, 19,578 straight (18,777 mm) / 4,558 curved (4,379 mm); text 217 rings, 1,147 straight (861 mm) / 369 curved (378 mm)",
+  "- **Circles and arcs:** 12 circles, 0 arcs; largest r 1.0 @ (382.2, 68.7), r 0.9 @ (240.8, 112.1), r 0.9 @ (83.7, 99.1), r 0.9 @ (211.1, 104.5)",
+  "- **Closed boxes:** 17",
+  "- **Dots (junctions):** 11"
+ ]
+}
