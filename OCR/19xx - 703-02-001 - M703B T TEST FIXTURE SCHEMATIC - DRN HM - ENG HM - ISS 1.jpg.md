@@ -36,7 +36,7 @@ Wiki page: [M703](../../../../PAGES/M703.md)
 - **Title block:** (358, 20)–(432, 32) mm: ISSUD4T · WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 91 connected wire groups from 617 runs, 2 dotted junctions; labelled ends: 171 mm → DIALICHT; 106 mm → +324; 99 mm → View OF; 74 mm → 526i3; 64 mm → WBS, LBI
 
-Every curve, box, word and wire group: [19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20703-02-001%20-%20M703B%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20703-02-001%20-%20M703B%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 (traced).dxf`).
 
 ## Full text
 

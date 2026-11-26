@@ -22,7 +22,7 @@ Wiki page: [M703](../../../../PAGES/M703.md)
 - **Dots (junctions):** 5
 - **Wiring (first pass):** 89 connected wire groups from 953 runs, 5 dotted junctions
 
-Every curve, box, word and wire group: [1977 - M703 - 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND (traced).json](../SCHEMATICS/1977%20-%20M703%20-%20701-02-001%20-%20AND%20REMOVE%20STRAP%20BETWEEN%20PINS%20AND%20(traced).json) (the CAD file: `1977 - M703 - 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M703 - 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND (traced).json](../SCHEMATICS/1977%20-%20M703%20-%20701-02-001%20-%20AND%20REMOVE%20STRAP%20BETWEEN%20PINS%20AND%20%28traced%29.json) (the CAD file: `1977 - M703 - 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND (traced).dxf`).
 
 ## Full text
 
