@@ -1,16 +1,16 @@
-# M703 · Communication
+# M703 Intercom Input Output Amplifier · Communication
 
 Ward-Beck Systems M703, 1975|8. Wiki page: [M703 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M703.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 23 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 36 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 17 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 8 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 37 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 18 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 61 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -70,22 +70,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMEpUSWgxYkJqMXc/view?resourcekey=0-nHMYSAFelHScu2X4noYhTw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMEpUSWgxYkJqMXc&resourcekey=0-nHMYSAFelHScu2X4noYhTw" width="240" alt="1977 - M703 - B 701-04-001 - M701 - COMPRESSOR - CHARACTERISTICS.jpg"></a><br><sub>1977|10 · B 701-04-001 - M701 - COMPRESSOR - CHARACTERISTICS · <a href="MECHANICAL/1977%20-%20M703%20-%20B%20701-04-001%20-%20M701%20-%20COMPRESSOR%20-%20CHARACTERISTICS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-## 3-D model
-
-[`MECHANICAL/M703.stl`](MECHANICAL/M703.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M703)
-
-- **Size:** 32 × 111 mm panel, 270 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.25" wide X 4.44" high X 10.63" deep _ (32 Mm X 111 mm X 270 mm))
-- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M703 - front panel.svg`)
-- no drawing of the front panel: the panel is blank
-- Made by `tools/module_models.py` (→ `MECHANICAL/M703.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKajhvQk1zR2ROLU0/view?resourcekey=0-fkZdkDpYAyafMuZtjacTxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKajhvQk1zR2ROLU0&resourcekey=0-fkZdkDpYAyafMuZtjacTxQ" width="240" alt="1977 - M703 - 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND.jpg"></a><br><sub>1977|10 · 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND · <a href="SCHEMATICS/1977%20-%20M703%20-%20701-02-001%20-%20AND%20REMOVE%20STRAP%20BETWEEN%20PINS%20AND%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOGN2Z3BPeWtWRGc/view?resourcekey=0-1BygJlvU3ouBVi4sjwsnFQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOGN2Z3BPeWtWRGc&resourcekey=0-1BygJlvU3ouBVi4sjwsnFQ" width="240" alt="1977 - M703 - 702-02-001.jpg"></a><br><sub>1977|10 · 702-02-001 · <a href="SCHEMATICS/1977%20-%20M703%20-%20702-02-001%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYmJONTlxd0U3MTA/view?resourcekey=0-XLFCKLxud3PsGGGMdnO95A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYmJONTlxd0U3MTA&resourcekey=0-XLFCKLxud3PsGGGMdnO95A" width="240" alt="1977 - M703 - LB 703-06-001 - M703 - I-C PRE &amp; OUTPUT AMPLIFIER - LAYOUT.jpg"></a><br><sub>1977|10 · LB 703-06-001 - M703 - I-C PRE &amp; OUTPUT AMPLIFIER - LAYOUT · <a href="SCHEMATICS/1977%20-%20M703%20-%20LB%20703-06-001%20-%20M703%20-%20I-C%20PRE%20%26%20OUTPUT%20AMPLIFIER%20-%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1vGgC0xwiZNqQFIhOFLzh14FMMKG3AQmu/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1vGgC0xwiZNqQFIhOFLzh14FMMKG3AQmu" width="240" alt="19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.jpg"></a><br><sub>19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 · <a href="SCHEMATICS/19xx%20-%20703-02-001%20-%20M703B%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1cbM0egWVODvvWU4f95tfNVWyIDYWLT6I/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1cbM0egWVODvvWU4f95tfNVWyIDYWLT6I" width="240" alt="19xx - M703 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU.png"></a><br><sub>19xx - M703 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1vGgC0xwiZNqQFIhOFLzh14FMMKG3AQmu/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1vGgC0xwiZNqQFIhOFLzh14FMMKG3AQmu" width="240" alt="19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.jpg"></a><br><sub>19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1 · <a href="SCHEMATICS/19xx%20-%20703-02-001%20-%20M703B%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1cbM0egWVODvvWU4f95tfNVWyIDYWLT6I/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1cbM0egWVODvvWU4f95tfNVWyIDYWLT6I" width="240" alt="19xx - M703 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU.png"></a><br><sub>19xx - M703 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU · <a href="SCHEMATICS/19xx%20-%20M703%20-%20DOC%20-%20703-02-001%20-%20INTERCOM%20AMPLIFIERS%20CONNECTOR%20STRAPPINGS%20ISSU%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1978 - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS - DRN P. MAHONEY - ISS 5.png`
@@ -171,7 +162,13 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS &amp; STRAPPING.kicad_sch](KICAD/1977%20-%20M703%20-%20B%20703-02-001%20-%20INTERCOM%20701%2C%20702%2C%20703%20INPUT%20OUTPUT%20AMP%20PIN%20CONNECTIONS%20%26%20STRAPPING.kicad_sch)
 - [1978 - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS - DRN P. MAHONEY - ISS 5.kicad_sch](KICAD/1978%20-%20703-02-001%20-%20INTERCOM%20AMPLIFIERS%20CONNECTOR%20STRAPPINGS%20-%20DRN%20P.%20MAHONEY%20-%20ISS%205.kicad_sch)
 - [19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.kicad_sch](KICAD/19xx%20-%20703-02-001%20-%20M703B%20T%20TEST%20FIXTURE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%201.kicad_sch)
+- [19xx - M703 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU.kicad_sch](KICAD/19xx%20-%20M703%20-%20DOC%20-%20703-02-001%20-%20INTERCOM%20AMPLIFIERS%20CONNECTOR%20STRAPPINGS%20ISSU.kicad_sch)
 - [M703.kicad_sym](KICAD/M703.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
