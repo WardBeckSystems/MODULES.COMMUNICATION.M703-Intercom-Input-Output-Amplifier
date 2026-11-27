@@ -13,6 +13,42 @@ Ward-Beck Systems M703, 1975|8. Wiki page: [M703 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 61 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1977 - M703 - M703A p5.jpg](MANUALS/1977%20-%20M703%20-%20M703A%20p5.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Maximum 90 dB +2 dB |
+| **Frequency response** | ±1 dB from 100 Hz to 5 kHz (tailored response) |
+| **Noise** | -116 dBm EIn |
+| **Harmonic distortion** | Less than 1 % THD at +18 dBm output |
+| **Source impedance** | 150 ohm, ba Tanced/unba lanced |
+| **Input impedance** | 5,000 ohm, baLanced Input Leve]: -70 dBm nomina]. ohm, balanced -80 158nahfi dBm minimum ona 1 strapping determines choice of dynamic or carbon microphone |
+| **Output impedance** | 150 ohm, balanced |
+| **Load impedance** | 600 ohm, baLanced _ Output Leve]: +8 dBm nomina ] +18 dBm maximum |
+| **Compression ratio** | 25 dB range (May be disabled). |
+| **Phasing** | Low number input and output terminals are in phase |
+| **Power requirements** | +24 to +36 volts dc, unregulated _ Approximately 35 ma |
+| **Ambient temperature** | 0 to 60 degrees Celsius |
+| **Dimensions** | 1.25&quot; wide X 4.44&quot; high X 10.63&quot; deep _ (32 Mm X 111 mm X 270 mm) |
+
+## Circuit description
+
+From [1977 - M703 - M703A p14.jpg](MANUALS/1977%20-%20M703%20-%20M703A%20p14.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M702 INTERCOM ouTPUT AMPLIFIER The operation] amplifier 22 is connected to present differentia] actively ba ]anced input at the module connector pins and U. The input with its grounded centre tap is set to an impedance of 10k ohm by RI and R2 The output from 22 is coupled via C13 to the interstate Teve] contro] R20 This contro] is accessible from the front of the module when it is plugged into frame As an operational convenience the interstate Teve 1 contro] maybe Located up to 25 feet from the amp] ifier Connections to the contro] are in this case made via the module connector pins 14 and 15 Norma ]Iy, 1.e when the remote contro] connection is not used, thea rm of the interna] Teve] contro] R20, is connected directly to the solid state muting switch, FET Q1 Q1 is driven by Q2 _ When no connection is made to the modu ]e connector pins 19 and 20 the connections for externa] &quot;mute and mute defeat contro respectively, then Q2 is saturated _ Q1 is in the Tow resistance state as result, and the audio signa ] is passed to the input of the power amplifier If connector pin 19 i5 shorted to ground (via an externa1 contro] circuit), Q2 turns 0 ff and Q1 is permitted to mute the audio When required, the muting function of Q1 can be over-ridden by grounding pin 20 _ This removes the positive bias voltage from Q1, and the audi 0 signa ] is again a ]owed to pass to the power amplifier _ The power amp] i fier is formed by 23 Q4, Q5 _ Q8 and 09 and the associated components The audio output is coupled through C29 to the module connector pins 21 andY Excessive power dissipation and possible destruction of the power output transistors due to very 1ow oad impedance or short circuit is prevented by Q6 and Q7 _ These two transistors sense the Tow Load impedance or short circuit condition and remove the drive to the power transistors Q4 and Q9
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

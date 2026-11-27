@@ -1,0 +1,19 @@
+{
+ "module": "M703",
+ "source": {
+  "file": "MANUALS/1977 - M703 - M703A p14.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "M702 INTERCOM ouTPUT AMPLIFIER The operation] amplifier 22 is connected to present differentia] actively ba ]anced input at the module connector pins and U. The input with its grounded centre tap is set to an impedance of 10k ohm by RI and R2 The output from 22 is coupled via C13 to the interstate Teve] contro] R20 This contro] is accessible from the front of the module when it is plugged into frame As an operational convenience the interstate Teve 1 contro] maybe Located up to 25 feet from the amp] ifier Connections to the contro] are in this case made via the module connector pins 14 and 15 Norma ]Iy, 1.e when the remote contro] connection is not used, thea rm of the interna] Teve] contro] R20, is connected directly to the solid state muting switch, FET Q1 Q1 is driven by Q2 _ When no connection is made to the modu ]e connector pins 19 and 20 the connections for externa] \"mute and mute defeat contro respectively, then Q2 is saturated _ Q1 is in the Tow resistance state as result, and the audio signa ] is passed to the input of the power amplifier If connector pin 19 i5 shorted to ground (via an externa1 contro] circuit), Q2 turns 0 ff and Q1 is permitted to mute the audio When required, the muting function of Q1 can be over-ridden by grounding pin 20 _ This removes the positive bias voltage from Q1, and the audi 0 signa ] is again a ]owed to pass to the power amplifier _ The power amp] i fier is formed by 23 Q4, Q5 _ Q8 and 09 and the associated components The audio output is coupled through C29 to the module connector pins 21 andY Excessive power dissipation and possible destruction of the power output transistors due to very 1ow oad impedance or short circuit is prevented by Q6 and Q7 _ These two transistors sense the Tow Load impedance or short circuit condition and remove the drive to the power transistors Q4 and Q9"
+   ]
+  }
+ ]
+}

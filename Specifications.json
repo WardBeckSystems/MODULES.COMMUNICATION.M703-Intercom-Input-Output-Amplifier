@@ -1,0 +1,204 @@
+{
+ "module": "M703",
+ "title": "M701 INTERCOM PREAMPLIFIER",
+ "source": {
+  "file": "MANUALS/1977 - M703 - M703A p5.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.87,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Maximum 90 dB +2 dB",
+   "quantities": [
+    {
+     "value": 90,
+     "unit": "dB"
+    },
+    {
+     "value": 2,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±1 dB from 100 Hz to 5 kHz (tailored response)",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 5,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-116 dBm EIn",
+   "quantities": [
+    {
+     "value": -116,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 1 % THD at +18 dBm output",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "150 ohm, ba Tanced/unba lanced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "5,000 ohm, baLanced Input Leve]: -70 dBm nomina]. ohm, balanced -80 158nahfi dBm minimum ona 1 strapping determines choice of dynamic or carbon microphone",
+   "quantities": [
+    {
+     "value": 5000,
+     "unit": "ohm"
+    },
+    {
+     "value": -70,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "150 ohm, balanced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohm, baLanced _ Output Leve]: +8 dBm nomina ] +18 dBm maximum",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Compression ratio",
+   "key": "compression_ratio",
+   "text": "25 dB range (May be disabled).",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number input and output terminals are in phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+24 to +36 volts dc, unregulated _ Approximately 35 ma",
+   "quantities": [
+    {
+     "from": 24,
+     "to": 36,
+     "unit": "volts dc"
+    },
+    {
+     "value": 35,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 60 degrees Celsius",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.25\" wide X 4.44\" high X 10.63\" deep _ (32 Mm X 111 mm X 270 mm)",
+   "quantities": [
+    {
+     "value": 1.25,
+     "unit": "\""
+    },
+    {
+     "value": 4.44,
+     "unit": "\""
+    },
+    {
+     "value": 10.63,
+     "unit": "\""
+    },
+    {
+     "value": 32,
+     "unit": "Mm"
+    },
+    {
+     "value": 111,
+     "unit": "mm"
+    },
+    {
+     "value": 270,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}
