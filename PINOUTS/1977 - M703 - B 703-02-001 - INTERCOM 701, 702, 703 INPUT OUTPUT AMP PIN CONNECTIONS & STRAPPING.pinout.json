@@ -1,0 +1,406 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.jpg",
+  "module": "M703",
+  "applies_to": [
+    "M701",
+    "M702",
+    "M703"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "B 703-02-001",
+    "title": "INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING",
+    "date": "1970-08",
+    "issue": "4",
+    "drawn": "DJG"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22 (pairs drawn as '1, A', '13, P' etc.)",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "+24 TO 36V UNREG (M701)",
+      "signal": "+24..36 V UNREG",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "+24 TO 36V UNREG (M701)",
+      "signal": "+24..36 V UNREG",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "10, L  -C (M701)",
+      "signal": "COMMON (-C)",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "10, L  -C (M701)",
+      "signal": "COMMON (-C)",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "mic input (strapping drawings)",
+      "signal": "MIC INPUT A",
+      "kind": "in",
+      "port": "MIC INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "mic input (strapping drawings)",
+      "signal": "MIC INPUT B",
+      "kind": "in",
+      "port": "MIC INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "mic cable shield; strap to 6 (dynamic)",
+      "signal": "MIC SHIELD",
+      "kind": "shield",
+      "port": "MIC INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "strap 5-6 (dynamic) / 6-7 (carbon); ext. battery for multiple carbon mics",
+      "signal": "CARBON MIC SUPPLY STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "strap 7-H (dynamic) / 6-7 (carbon)",
+      "signal": "MIC STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "strap C-E",
+      "signal": "MIC STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "strap D-E (carbon)",
+      "signal": "MIC STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "strap C-E / D-E",
+      "signal": "MIC STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "strap 7-H",
+      "signal": "MIC STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "PRE OUTPUT +8dBm NOM. (M701)",
+      "signal": "PRE OUTPUT A",
+      "kind": "insert_send",
+      "port": "PRE OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "PRE OUTPUT +8dBm NOM. (M701)",
+      "signal": "PRE OUTPUT B",
+      "kind": "insert_send",
+      "port": "PRE OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "0dBm MIN. (M702 input)",
+      "signal": "POWER AMP INPUT A",
+      "kind": "insert_return",
+      "port": "POWER AMP INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "0dBm MIN. (M702 input)",
+      "signal": "POWER AMP INPUT B",
+      "kind": "insert_return",
+      "port": "POWER AMP INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "input cable shield (M702)",
+      "signal": "POWER AMP INPUT SHIELD",
+      "kind": "shield",
+      "port": "POWER AMP INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "+24 TO 36V UNREG (M702)",
+      "signal": "+24..36 V UNREG",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "+24 TO 36V UNREG (M702)",
+      "signal": "+24..36 V UNREG",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "MUTE",
+      "signal": "MUTE",
+      "kind": "control_in",
+      "port": "MUTE",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "3 WATT MAX 8Ω OUTPUT UNBAL.",
+      "signal": "SPEAKER OUTPUT",
+      "kind": "out",
+      "port": "SPEAKER OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "3 WATT MAX 8Ω OUTPUT UNBAL.",
+      "signal": "SPEAKER OUTPUT",
+      "kind": "out",
+      "port": "SPEAKER OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "OUTPUT UNBAL. (to ground)",
+      "signal": "SPEAKER OUTPUT RETURN / GROUND",
+      "kind": "ground",
+      "port": "SPEAKER OUTPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "OUTPUT UNBAL. (to ground)",
+      "signal": "SPEAKER OUTPUT RETURN / GROUND",
+      "kind": "ground",
+      "port": "SPEAKER OUTPUT",
+      "polarity": "-"
+    }
+  ],
+  "ports": [
+    {
+      "name": "MIC INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-3",
+        "-": "P1-4",
+        "shield": "P1-5"
+      }
+    },
+    {
+      "name": "PRE OUTPUT",
+      "dir": "insert_send",
+      "pins": {
+        "+": "P1-8",
+        "-": "P1-J"
+      }
+    },
+    {
+      "name": "POWER AMP INPUT",
+      "dir": "insert_return",
+      "pins": {
+        "+": "P1-U",
+        "-": "P1-V",
+        "shield": "P1-T"
+      }
+    },
+    {
+      "name": "SPEAKER OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-21",
+        "-": "P1-22"
+      }
+    },
+    {
+      "name": "MUTE",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-19"
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "PRE OUT / POWER AMP IN",
+      "send": "PRE OUTPUT",
+      "return": "POWER AMP INPUT",
+      "normalled": null,
+      "note": "M701 = preamp only, M702 = power amp only, M703 = both sections. The drawing does not show how the M703 pre output reaches its power amp input; recorded as a pre-out / power-in pair."
+    }
+  ],
+  "straps": [
+    {
+      "name": "DYNAMIC MIC (-60)",
+      "pins": [
+        "P1-5",
+        "P1-6"
+      ],
+      "note": "dynamic microphone strapping"
+    },
+    {
+      "name": "DYNAMIC MIC (-60)",
+      "pins": [
+        "P1-7",
+        "P1-H"
+      ],
+      "note": ""
+    },
+    {
+      "name": "DYNAMIC MIC (-60)",
+      "pins": [
+        "P1-C",
+        "P1-E"
+      ],
+      "note": ""
+    },
+    {
+      "name": "CARBON MIC (-30)",
+      "pins": [
+        "P1-6",
+        "P1-7"
+      ],
+      "note": "NOTE: FOR MULTIPLE CARBON MIC. OPERATION CONNECT EXTERNAL BTY SUPPLY (APPROX 2-5V) TO PIN 6, REMOVE LINK BETWEEN PINS 6 & 7, RUN SEPARATE TO PIN 5"
+    },
+    {
+      "name": "CARBON MIC (-30)",
+      "pins": [
+        "P1-D",
+        "P1-E"
+      ],
+      "note": ""
+    },
+    {
+      "name": "CARBON + DYNAMIC",
+      "pins": [
+        "P1-6",
+        "P1-7"
+      ],
+      "note": "third drawing: carbon mic input direct on 3/4, dynamic mic input -60dBm via 1 MFD 200V MYLAR capacitors on the same pins; also 7-H and C-E"
+    },
+    {
+      "name": "CARBON + DYNAMIC",
+      "pins": [
+        "P1-7",
+        "P1-H"
+      ],
+      "note": ""
+    },
+    {
+      "name": "CARBON + DYNAMIC",
+      "pins": [
+        "P1-C",
+        "P1-E"
+      ],
+      "note": ""
+    }
+  ],
+  "unread": [
+    "Label under M701 pins '10, L' reads '-C' (common?)",
+    "'TO PIN 6' in the carbon note looks like 'PIN G' on the scan",
+    "Opposite-side letters for 3-7 (C-H) are separate contacts used for strapping; 'also' for U/V/T/W given by the standard A-Z / 1-22 pairing, not drawn",
+    "Polarity of mic and power-amp input pairs not marked"
+  ],
+  "confidence": "medium",
+  "notes": "Drawing rotated 90°; date AUG.70, checked AL, issue 4 (file name says 1977). Pin pairs drawn as number,letter ('1, A', '13, P', '21, Y', '22, Z', '10, L') are recorded as both contacts. M702 output: 3 WATT MAX 8Ω OUTPUT UNBAL. on 21/Y with 22/Z to ground. Mic levels: dynamic -60, carbon -30."
+}
