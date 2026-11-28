@@ -1,5 +1,5 @@
 # 19xx - 703-02-001 - M703B T TEST FIXTURE SCHEMATIC - DRN HM - ENG HM - ISS 1.jpg
-Wiki page: [M703](../../../../PAGES/M703.md)
+Wiki page: [M703](../)
 
 
 - **Year:** unknown (title block (read by eye))

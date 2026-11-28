@@ -1,5 +1,5 @@
 # 1977 - M703 - 701-02-001 - AND REMOVE STRAP BETWEEN PINS AND.jpg
-Wiki page: [M703](../../../../PAGES/M703.md)
+Wiki page: [M703](../)
 
 
 - **Year:** 1977 (module estimate (manual_issue))

@@ -1,5 +1,5 @@
 # 1977 - M703 - B 701-04-001 - M701 - COMPRESSOR - CHARACTERISTICS.jpg
-Wiki page: [M703](../../../../PAGES/M703.md)
+Wiki page: [M703](../)
 
 
 - **Year:** 1977 (module estimate (manual_issue))

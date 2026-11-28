@@ -1,5 +1,5 @@
 # 1978 - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS - DRN P. MAHONEY - ISS 5.png
-Wiki page: [M703](../../../../PAGES/M703.md)
+Wiki page: [M703](../)
 
 
 - **Year:** 1978 (title block date)

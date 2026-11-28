@@ -1,6 +1,6 @@
 # M703 Intercom Input Output Amplifier · Communication
 
-Ward-Beck Systems M703, 1975|8. Wiki page: [M703 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M703.html)
+Ward-Beck Systems M703, 1975|8. Wiki page: [M703 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M703-Intercom-Input-Output-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

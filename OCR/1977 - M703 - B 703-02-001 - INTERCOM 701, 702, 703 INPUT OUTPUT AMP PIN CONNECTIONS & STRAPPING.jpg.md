@@ -1,5 +1,5 @@
 # 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.jpg
-Wiki page: [M703](../../../../PAGES/M703.md)
+Wiki page: [M703](../)
 
 
 - **Year:** 1977 (module estimate (manual_issue))
